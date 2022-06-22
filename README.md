@@ -8,7 +8,7 @@ Clicando no Quem Somos, Onde Estamos e Contato.
 
 [<img src="./projeto_clicavel.gif" alt="Clicando no menu">]
 
-## Utilizando Respansividade
+## Utilizando responsividade
 
 Versão web para todos os tipos de tablets.
 
