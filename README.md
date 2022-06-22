@@ -12,11 +12,11 @@ Clicando no Quem Somos, Onde Estamos e Contato.
 
 Versão web para todos os tipos de tablets.
 
-[<img src="./projetotablets" alt="versão tablets"]
+[<img src="./projetotablets.gif" alt="versão tablets"]
 
 Versão web para todos os tipos de celulares.
 
-[<img src="./projetocelulares" alt="Versão celular"]
+[<img src="./projetocelulares.gif" alt="Versão celular"]
 
 ### Tecnologia utilizadas
 
