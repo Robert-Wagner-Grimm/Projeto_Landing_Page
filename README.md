@@ -6,17 +6,17 @@ Realizado a conlusão do projeto versão Web para computador.
 
 Clicando no Quem Somos, Onde Estamos e Contato.
 
-[<img src="./projeto_click.gif" alt="Clicando no menu"]
+[<img src="./projetoclicavel.gif" alt="Clicando no menu"]
 
 ## Utilizando Respansividade
 
 Versão web para todos os tipos de tablets.
 
-[<img src="./projeto_tablets" alt="versão tablets"]
+[<img src="./projetotablets" alt="versão tablets"]
 
 Versão web para todos os tipos de celulares.
 
-[<img src="./projeto_celulares" alt="Versão celular"]
+[<img src="./projetocelulares" alt="Versão celular"]
 
 ### Tecnologia utilizadas
 
